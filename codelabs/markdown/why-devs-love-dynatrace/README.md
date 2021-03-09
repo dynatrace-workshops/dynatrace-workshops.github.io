@@ -17,10 +17,6 @@ Copy Codelab
 ## Pizza
 Duration: 10
 ```java
-package com.compuware.apm.datatypes.api.timeseries.config.keys;
-
-import com.compuware.apm.pwh.api.ts2.metrics.key.RootMetricKey;
-import com.compuware.apm.pwh.api.ts2.metrics.key.TsmMetricKey;
 
 public final class PizzaMetric {
 
@@ -29,9 +25,3 @@ public final class PizzaMetric {
         public static final TsmMetricKey PIZZA = TsmMetricKey.of(RootMetricKey.EXTENSION, "pizza key");
 }
 ```
-<img alt="relationships" src="img/relationships.png" width="800.00" />
-
-## Pizza 2
-Duration: 10
-<img alt="relationships" src="img/me-debugui.png" width="800.00" />
-
