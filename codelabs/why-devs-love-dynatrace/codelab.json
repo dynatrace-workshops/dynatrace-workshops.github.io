@@ -3,9 +3,9 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2021-03-09T11:10:59+01:00",
+  "updated": "2021-03-09T19:03:27+01:00",
   "id": "why-devs-love-dynatrace",
-  "duration": 20,
+  "duration": 10,
   "title": "Why Devs Love Dynatrace",
   "authors": "sergio.hinojosa",
   "summary": "Why Developers Love Dynatrace",
@@ -15,10 +15,13 @@
     "published"
   ],
   "category": [
-    "codelevel"
+    "keptn",
+    "codelevel",
+    "cicd"
   ],
   "tags": [
-    "codelevel"
+    "codelevel",
+    "devlove"
   ],
   "url": "why-devs-love-dynatrace"
 }

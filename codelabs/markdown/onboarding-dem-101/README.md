@@ -10,7 +10,7 @@ authors: sergio.hinojosa
 ## Introduction 
 Duration: 10
 
-WIP 
-Convert powerpoint Workshop to Codelab
+Negative
+: WIP  Convert powerpoint Workshop to Codelab
 
 

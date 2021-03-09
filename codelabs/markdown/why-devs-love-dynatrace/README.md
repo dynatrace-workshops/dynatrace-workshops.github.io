@@ -1,7 +1,7 @@
 summary: Why Developers Love Dynatrace
 id: why-devs-love-dynatrace
-categories: codelevel
-tags: codelevel
+categories: keptn, codelevel, CICD
+tags: codelevel, devlove
 status: Published
 authors: sergio.hinojosa
 
@@ -11,17 +11,5 @@ authors: sergio.hinojosa
 ## Introduction 
 Duration: 10
 
-WIP
-Copy Codelab
-
-## Pizza
-Duration: 10
-```java
-
-public final class PizzaMetric {
-
-        private PizzaMetric() {}
-
-        public static final TsmMetricKey PIZZA = TsmMetricKey.of(RootMetricKey.EXTENSION, "pizza key");
-}
-```
+Negative
+: WIP Copy Codelab
