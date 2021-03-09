@@ -1,11 +1,11 @@
-summary: Deploy Easytravel @ localhost
+summary: Deploy Easytravel @ 127.0.0.1
 id: deploy-easytravel-at-localhost
-categories: DEM, localhost, easytravel
+categories: easytravel, DEM, localhost
 tags: DEM, localhost, easytravel
 status: Published
 authors: sergio.hinojosa
 
-# Deploying Easytravel at Localhost
+# Deploying Easytravel @ 127.0.0.1
 
 ## Introduction 
 Duration: 3

@@ -3,21 +3,21 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2021-03-09T15:44:33+01:00",
+  "updated": "2021-03-09T15:55:33+01:00",
   "id": "deploy-easytravel-at-localhost",
   "duration": 18,
-  "title": "Deploying Easytravel at Localhost",
+  "title": "Deploying Easytravel @ 127.0.0.1",
   "authors": "sergio.hinojosa",
-  "summary": "Deploy Easytravel @ localhost",
+  "summary": "Deploy Easytravel @ 127.0.0.1",
   "source": "codelabs/markdown/easytravel-localhost/README.md",
   "theme": "",
   "status": [
     "published"
   ],
   "category": [
+    "easytravel",
     "dem",
-    "localhost",
-    "easytravel"
+    "localhost"
   ],
   "tags": [
     "dem",
