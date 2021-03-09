@@ -28,7 +28,8 @@
                   feedback-link="">
     
       <google-codelab-step label="Troubleshooting Tips and Basic commands 🩺" duration="0">
-        <p>NevativeWIP, add diagrams</p>
+        <aside class="warning"><p>WIP, add diagrams</p>
+</aside>
 <pre><code> kubectl get all -n dynatrace (-o wide)
 </code></pre>
 <p>List the basic resources of Dynatrace.<br>Operator deployment, Operator ReplicaSet and it&#39;s PoD<br>OneAgent DaemonSet definition and its PoDs. It should be one PoD per Node.<br>with -o wide, the output is wider and lets you verify in which node are the PoDs running.<br>All PoDs should be in status Running. The number of Ready and Desired should match, which by the way should always be 1 since we are deploying as a DeamonSet.</p>

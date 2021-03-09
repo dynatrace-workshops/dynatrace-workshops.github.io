@@ -8,8 +8,8 @@ authors: sergio.hinojosa
 # Kubernetes Deepdive
 
 ## Kubernetes Deepdive
-
 Duration: 5
+
 Negative
 : WIP Copy 
 
