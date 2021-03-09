@@ -7,9 +7,10 @@ authors: sergio.hinojosa
 
 # DEM 101
 
+## Introduction 
+Duration: 10
 
 WIP 
-
 Convert powerpoint Workshop to Codelab
 
 

@@ -7,12 +7,12 @@ authors: sergio.hinojosa
 
 # Why Devs Love Dynatrace
 
-WIP
-
-Copy Codelab
 
 ## Introduction 
 Duration: 10
+
+WIP
+Copy Codelab
 
 ## Pizza
 Duration: 10
