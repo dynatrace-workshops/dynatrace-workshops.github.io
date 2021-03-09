@@ -7,6 +7,10 @@ authors: sergio.hinojosa
 
 # Why Devs Love Dynatrace
 
+WIP
+
+Copy Codelab
+
 ## Introduction 
 Duration: 10
 
@@ -31,5 +35,3 @@ public final class PizzaMetric {
 Duration: 10
 <img alt="relationships" src="img/me-debugui.png" width="800.00" />
 
-
-{{ snippets/07/community/feedback.md }}
